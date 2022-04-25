@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400&display=swap');
+
+header span {
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+header .btn {
+    color: white;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+header .btn:active, header .btn:hover {
+    color: white;
+    font-family: "Poppins", Arial, sans-serif;
+    cursor: pointer;
+}
